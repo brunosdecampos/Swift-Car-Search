@@ -1,0 +1,57 @@
+{
+    "cars":
+    [
+        {
+            "make": "Audi",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=audi&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "BMW",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=bmw&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Chevrolet",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=chevrolet&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Ford",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=ford&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Honda",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=honda&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Hyundai",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=hyundai&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Jeep",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=jeep&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+            },
+        {
+            "make": "KIA",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=kia&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Mazda",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=mazda&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Mercedes-Benz",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=mercedes-benz&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Porsche",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=porsche&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Toyota",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=toyota&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        },
+        {
+            "make": "Volkswagen",
+            "url": "https://www.carpages.ca/used-cars/search/?make_name=volkswagen&search_radius=100&province_code=on&city=toronto&sort=year_desc&ll=43.6656,-79.383"
+        }
+    ]
+}
